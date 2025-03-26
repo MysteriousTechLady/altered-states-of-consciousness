@@ -4,7 +4,7 @@ If you found this repository, you are in for a surprise
 The information is combined from AI and MindValley from my experience.
 
 Credit in tech development of these files belongs to: MysteriousTechLady, GenAI and the knowledge derives mainly from MindValley.
-MysteriousTechLady is a cummmunity member of MindValley. 
+MysteriousTechLady is a cummunity member of MindValley. 
 
 
 
