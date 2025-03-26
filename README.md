@@ -8,9 +8,18 @@ Duration 30min for each compilation
 4hz to 8hz  = Theta
 12hz = Alpha
 
+Adjust the volume if these sound feels to strong. 
+
+These are binuaral waves and beats that alter the state of mind of the human brain.
+
+
 If these dont work on you or you feel no positive affects,
 attend the Mind valley course- The silva Ultramind System
 
+
+If it works on you keep it to yuorself. Reality isnt what you think it is.
 Choose the monthly payment subscription and get started.
 
 Bend Reality to your favor.
+
+
