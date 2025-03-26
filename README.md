@@ -9,24 +9,26 @@ If you just want the audio files then find me and ill send it to you.
 
 if you want the code to create the files, then off you go below
 
-installation:
-ensure python3 is installed from 
+Installation:
+Ensure python3 is installed from 
 https://www.python.org/downloads/
 
 or MS aka Microsoft Store:
 Pip and Python 3.4+
 
-check if installed on your operating system:
+Check if installed on your operating system:
 snippet: where python or where python3 for windows
 
 Perform
 pip in your command line interface
-you should get a long command list output which means its installed
+You should get a long command list output which means its installed
 
-then perform:
+Then perform:
 pip install numpy, scipy
 
-this install the libraries needed for you to create the audio files in .wav format
+This install the libraries needed for you to create the audio files in .wav format
+
+if AI cannot help you troubleshoot for some reason find me so I can help you.
 
 
 
@@ -52,7 +54,8 @@ High Alpha: Around 10 Hz - 12 Hz
 Very High Alpha: Around 12 Hz - 13 Hz
 
 Adjust the volume if these sounds feels too strong. 
-These are binuaral waves and beats that alter the state of mind of the human brain.
+Warning: These are binuaral waves and beats that alter the state of mind of the human brain.
+
 
 If these dont work on you or you feel no positive affects,
 attend the MindValley course- The silva Ultramind System
