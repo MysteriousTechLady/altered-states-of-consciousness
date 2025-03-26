@@ -8,7 +8,7 @@ MysteriousTechLady is a cummunity member of MindValley.
 
 
 
-*Infomation about the files you are obtaining*:
+*Information about the files you are obtaining*:
 
 These frequencies(Tools) alter the state of the brain.
 This is strictly only for those who know how to use it.
